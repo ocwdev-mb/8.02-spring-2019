@@ -1,0 +1,13 @@
+leftnav:
+- identifier: external-496660067-1645820271061
+  name: ELECTROSTATICS
+  url: https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.02.1x+1T2019/about
+  weight: 10
+- identifier: external-1245790914-1645820291375
+  name: MAGNETIC FIELDS AND FORCES
+  url: https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.02.2x+2T2018/about
+  weight: 20
+- identifier: external--783203611-1645820301410
+  name: MAXWELL'S EQUATIONS
+  url: https://openlearninglibrary.mit.edu/courses/course-v1:MITx+8.02.3x+1T2019/about
+  weight: 30
